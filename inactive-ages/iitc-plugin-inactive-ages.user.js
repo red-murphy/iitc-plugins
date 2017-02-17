@@ -2,11 +2,11 @@
 // @id             iitc-plugin-portal-ages@nerd4lyfe
 // @name           IITC plugin: Portal Inactive Ages
 // @category       Layer
-// @version        0.1.6.20170108.21732
+// @version        0.1.0.20170216.01
 // @namespace      https://github.com/seattletechie/iitc-plugins
-// @updateURL      https://.meta.js
-// @downloadURL    https://static.iitc.me/build/release/plugins/portal-ages.user.js
-// @description    [iitc-2017-01-08-021732] Show portal ages on the map.
+// @updateURL      https://github.com/seattletechie/iitc-plugins/raw/master/inactive-ages/iitc-plugin-inactive-ages.meta.js
+// @downloadURL    https://github.com/seattletechie/iitc-plugins/raw/master/inactive-ages/iitc-plugin-inactive-ages.user.js
+// @description    [iitc-2017-02-16-01] Show portal ages on the map.
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
 // @match          https://*.ingress.com/intel*
